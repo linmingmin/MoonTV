@@ -626,10 +626,6 @@
       "name": "细胞采集黄色",
       "is_adult": true
     },
-    "qiqidys": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视",
-      "is_adult": false
     }
   }
 }
